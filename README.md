@@ -1,4 +1,9 @@
-# fch97.github.io
+# Sito portfolio di Federico
 
-#riga di aggiunta
-#c
+Questo è un sito di presentazione, nonchè un portfolio, dove raccolgo tutti i miei progetti.
+
+### Le tecnologie che ho usato sono:
+- svf
+
+### Ringrazio per nle librerie:
+- hrbhtyh
